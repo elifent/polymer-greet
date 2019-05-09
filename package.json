@@ -1,0 +1,27 @@
+{
+  "name": "polymer-greet-app",
+  "version": "1.0.0",
+  "description": "A starting point for polymer+node+google app engine",
+  "author": "aneeshameed@elifent.tech",
+  "license": "BSD-3-Clause",
+  "repository": "elifent/polymer-greets",
+  "main": "index.html",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@polymer/iron-ajax": "^3.0.1",
+    "@polymer/iron-flex-layout": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/polymer": "^3.2.0",
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "polymer-cli": "^1.7.1",
+    "wct-browser-legacy": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=8.0"
+  }
+}

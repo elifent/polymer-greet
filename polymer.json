@@ -1,0 +1,10 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/polymer-greets.js",
+  "sources": [
+   "src/polymer-greets.js",
+   "package.json",
+   "resources/*"
+  ],
+  "npm": true
+}
