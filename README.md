@@ -1,6 +1,6 @@
 # Polymer, NodeJS, Google App Engine
 
-This is a sample greeting app build on Polymer, Nodejs and hosted on Google App Engine. Read on [Medium](https://medium.com/@aneesshameed/polymer-node-js-google-app-engine-f25c78ed5ea1) more about on how the entire system work. See the app live [here](http://polymer-greets.appspot.com/).
+This is a sample greeting app build on Polymer, Nodejs and hosted on Google App Engine. Read on [Medium](https://medium.com/@aneesshameed/polymer-node-js-google-app-engine-f25c78ed5ea1) more about on how the entire system work. See the app live [here]
 
 For developement and build we use [Polymer CLI](https://github.com/Polymer/polymer-cli).
 
