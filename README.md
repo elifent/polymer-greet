@@ -1,9 +1,8 @@
 # Polymer, NodeJS, Google App Engine
 
-This is a sample greeting app build on Polymer, Nodejs and hosted on Google App Engine. Read on [Medium](https://medium.com/@aneesshameed/polymer-node-js-google-app-engine-f25c78ed5ea1) more about on how the entire system workd.
+This is a sample greeting app build on Polymer, Nodejs and hosted on Google App Engine. Read on [Medium](https://medium.com/@aneesshameed/polymer-node-js-google-app-engine-f25c78ed5ea1) more about on how the entire system work. See the app live [here](http://polymer-greets.appspot.com/).
 
-For developement and build we use [Polymer CLI](https://github.com/Polymer/polymer-cli). Install [Polymer CLI](https://github.com/Polymer/polymer-cli) using
-[npm](https://www.npmjs.com).
+For developement and build we use [Polymer CLI](https://github.com/Polymer/polymer-cli).
 
 
 ### Run Locally
@@ -31,4 +30,7 @@ Start node server to preview default build
     npm start
 
 ### deploy
-    Use google cloud to deploy app on to Google App Engine.
+Use google cloud to deploy app on to Google App Engine.
+
+    gcloud init
+    gcloud app deploy path/to/apps/app.yaml
